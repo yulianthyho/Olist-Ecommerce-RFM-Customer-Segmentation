@@ -1,7 +1,9 @@
 # Olist Ecommerce: Customer Segmentation with RFM Analysis and K-Means Clustering
 End to end process from Data Cleaning, Exploratory Data Analysis then do Customer Segmentation with RFM Analysis and K-Means Clustering and giving insight and recommendation for each cluster.
 
-Tools : Python (Pandas, Matplotlib, Scikit-Learn, Numpy, Seaborn, Scipy, Silhoutte Analysis)
+Tools : Python (Pandas, Matplotlib, Scikit-Learn, Numpy, Seaborn, Scipy, Silhoutte Analysis) using Google Collab
+
+Check the code [here](https://github.com/yulianthyho/Olist-Ecommerce-RFM-Customer-Segmentation/blob/main/W6W7W8_Yulianthy_Ho_Intermediate_%26Advanced.ipynb)
 
 ## Overview
 Olist just started an e-commerce startup based in Portugal that recently opened an online website to sell their product. Fortunately, Olist is launching their website when the covid-19 hits and making them grow faster than ever. However, Olist is still not using targeted marketing which hurts their marketing budget as only a fraction of their user comes back to their website.
