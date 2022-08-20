@@ -13,9 +13,9 @@ Help Olist to increase their marketing conversion rate by doing targeted marketi
 Customer segmentation is one of the most important marketing tools, because it can help a business to better understand its target audience. Segmenting customer helps in better understanding the customers and thus personalizing marketing and communication for each segment.
 
 We will segment our customer using RFM analysis
-- Recency (R) : Difference between days since last purchase and observed days.
-- Frequency (F) : How many of transcaction each customer made?
-- Monetary (M) : How much each customer spend ?
+- **Recency (R)** : Difference between days since last purchase and observed days.
+- **Frequency (F)** : How many of transcaction each customer made?
+- **Monetary (M)** : How much each customer spend ?
 
 ## Insight and Recommendation
 
