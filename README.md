@@ -36,3 +36,4 @@ Our top priority is to get them transacting with us again after they have been c
 
 We need to increase the monetary value or total spending of the customers in this category.
 - Recommendations : We can increase total spending of customers by providing vouchers in the form of cashback (to enable repeat purchases), with a high eligibility threshold (e.g. the voucher is only valid for transactions amount at least 100).
+
